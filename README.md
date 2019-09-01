@@ -11,6 +11,12 @@ links will be in the descriptions below.
 Inspired by the numberphile video https://www.youtube.com/watch?v=kbKtFN71Lfs,
 but with additional bits and bobs.
 
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Chaos%20Game.png)
+
 <b> Circle Dot </b>
 
 Combination of points moving in a sin path at different angles as well as at different rates creating intersting motion
+
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/circle%20dot.png)
+
+still more descriptions to do I'll get to it

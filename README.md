@@ -19,4 +19,10 @@ Combination of points moving in a sin path at different angles as well as at dif
 
 ![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/circle%20dot.png)
 
-still more descriptions to do I'll get to it
+<b> Hilgert's Curve </b>
+
+A demonstration of Hilbert's space filling curve. You can step through the itterations by pressing <a>.
+
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Hilbert's%20Curve.png)
+
+still more descriptions to do.

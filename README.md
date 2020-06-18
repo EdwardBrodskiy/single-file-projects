@@ -29,6 +29,13 @@ A demonstration of Hilbert's space filling curve. You can step through the itter
 
 A program for encrypting and decrypting text by a simple character shift. It works by producing all possible combinations.
 
-![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Decoding%Romans.png)
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Decoding%20Romans.png)
+
+<b> Loading </b>
+
+It's a loading bar. It does not stop...
+
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Loading42.png)
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Loading316.png)
 
 still more descriptions to do.

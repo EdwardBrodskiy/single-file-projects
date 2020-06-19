@@ -38,4 +38,11 @@ It's a loading bar. It does not stop...
 ![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Loading42.png)
 ![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Loading316.png)
 
+<b> Toothpicks </b>
+
+A simple rule set of placing down toothpicks creating a nice pattern. The rule is that tootpicks must be placed on the ends of other toothpicks if there is space and that defines the next itteration in the pattern.
+
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Toothpicks%20small.png)
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Toothpicks%20large.png)
+
 still more descriptions to do.

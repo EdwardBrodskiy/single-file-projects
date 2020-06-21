@@ -45,4 +45,9 @@ A simple rule set of placing down toothpicks creating a nice pattern. The rule i
 ![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Toothpicks%20small.png)
 ![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Toothpicks%20large.png)
 
-still more descriptions to do.
+<b> Traveling Salesman problem</b>
+
+The program solves the Traveling Salesman problem by brute forcing every combination through lexograthic order. The program displays current attempt by purple and best attempt so far by green. A random set of points is generated each time.
+
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Traveling%20Sales%20Personman%20Incomplete.png)
+![Alt text](https://github.com/EdwardBrodskiy/single-file-projects/blob/master/small%20projects%20examples/Traveling%20Sales%20Personman%20Complete.png)

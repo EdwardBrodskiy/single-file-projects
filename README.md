@@ -1,6 +1,6 @@
 # Mini Projects
 
-This collection encapsulates an array of my smaller-scale projects, exploring invigorating ideas from different areas of mathematics. Although these projects are old, they mean a lot to me. In writing these programs, I found the love for code that follows me to this day.
+This collection encapsulates an array of my smaller-scale projects, exploring invigorating ideas from different areas of mathematics. Although these projects are old, they mean a lot to me. As in writing these programs, I found the love for code that follows me to this day.
 
 ## Descriptions
 
